@@ -1,5 +1,6 @@
-**Website-Based RAG Chatbot — AI/ML Engineer Assignment
-🔍 Project Overview**
+**Website-Based RAG Chatbot — AI/ML Engineer Assignment**
+
+**Project Overview**
 
 This project is a website-based AI chatbot built using a Retrieval-Augmented Generation (RAG) approach. The chatbot takes a website URL as input, crawls and extracts meaningful text from the page, converts it into embeddings, stores them in a vector database, and then answers user questions strictly based on the website content.
 
